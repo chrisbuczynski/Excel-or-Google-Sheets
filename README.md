@@ -7,6 +7,3 @@ Enter the event date and calculate the time elapsed from that moment to the spec
 # Budżet Projektu - szkolenie:
 File prepared for training coordinators at the European Students' Forum AEGEE-Torun. I also used it during workshops on budgeting for non-governmental organizations that I conducted.
 
-
-
-
